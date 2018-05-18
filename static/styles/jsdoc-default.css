@@ -30,7 +30,7 @@ body {
 
 a,
 a:active {
-  color: #4d4e53;
+  color: #4f376d;
   text-decoration: none;
 }
 
@@ -94,6 +94,7 @@ h6 {
 
 tt, code, kbd, samp {
   font-family: 'Source Code Pro';
+  font-size: 90%;
   background: #f4f4f4;
   padding: 1px 5px;
   border-radius: 5px;
