@@ -5,7 +5,7 @@ A clean, responsive documentation template theme for JSDoc 3, based on [LatoDoc]
 ## Install
 
 ```bash
-$ npm install --save-dev vidcode-jsdoc-theme
+$ npm install --save-dev vidcode/vidcode-jsdoc-theme
 ```
 
 ## Usage
