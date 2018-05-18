@@ -30,7 +30,7 @@ body {
 
 a,
 a:active {
-  color: #4f376d;
+  color: #00B3D7;
   text-decoration: none;
 }
 
@@ -273,7 +273,7 @@ footer {
   font-family: 'Source Code Pro';
   font-size: 110%;
   font-weight: bold;
-  color: #4f376d;
+  color: #00B3D7;
   padding-top: 30px;
 }
 
