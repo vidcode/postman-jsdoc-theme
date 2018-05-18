@@ -1,11 +1,11 @@
-# Postman JSDoc3 Theme
+# Vidcode JSDoc3 Theme
 
 A clean, responsive documentation template theme for JSDoc 3, based on [LatoDoc](https://github.com/smeijer/latodoc)
 
 ## Install
 
 ```bash
-$ npm install --save-dev postman-jsdoc-theme
+$ npm install --save-dev vidcode-jsdoc-theme
 ```
 
 ## Usage
@@ -13,12 +13,12 @@ $ npm install --save-dev postman-jsdoc-theme
 Clone repository to your designated `jsdoc` template directory, then:
 
 ```bash
-$ jsdoc entry-file.js -t path/to/postman-jsdoc-theme
+$ jsdoc entry-file.js -t path/to/vidcode-jsdoc-theme
 ```
 
 Optionally, provide a package version on the command line, which will be rendered into the final documentation
 ```bash
-$ jsdoc entry-file.js -t path/to/postman-jsdoc-theme --query 'pkgVersion=2.3.0'
+$ jsdoc entry-file.js -t path/to/vidcode-jsdoc-theme --query 'pkgVersion=2.3.0'
 ```
 
 ### Node.js Dependency
@@ -35,7 +35,7 @@ In your `.jsdoc.json` file, add a template option.
 
 ```json
 "opts": {
-  "template": "node_modules/postman-jsdoc-theme"
+  "template": "node_modules/vidcode-jsdoc-theme"
 }
 ```
 
@@ -64,7 +64,7 @@ In your `.jsdoc.json` file, add a template option.
         "encoding": "utf8",
         "private": true,
         "recurse": true,
-        "template": "./node_modules/postman-jsdoc-theme"
+        "template": "./node_modules/vidcode-jsdoc-theme"
     }
 }
 ```

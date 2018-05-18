@@ -1,11 +1,11 @@
 {
-  "name": "postman-jsdoc-theme",
+  "name": "vidcode-jsdoc-theme",
   "version": "0.0.3",
   "description": "A JSDoc Theme / Template",
   "main": "publish.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/postmanlabs/postman-jsdoc-theme.git"
+    "url": "https://github.com/vidcode/vidcode-jsdoc-theme.git"
   },
   "author": {
     "name": "Postman Team",
@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/postmanlabs/postman-jsdoc-theme/issues"
+    "url": "https://github.com/vidcode/vidcode-jsdoc-theme/issues"
   },
-  "homepage": "https://github.com/postmanlabs/postman-jsdoc-theme"
+  "homepage": "https://github.com/vidcode/vidcode-jsdoc-theme"
 }
